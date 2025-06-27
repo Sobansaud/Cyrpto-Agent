@@ -1,0 +1,1 @@
+web: chainlit run mainn.py -h 0.0.0.0 --port $PORT
